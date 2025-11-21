@@ -1,0 +1,2 @@
+Resumo
+Este projeto tem como objetivo desenvolver uma API voltada para o gerenciamento de metas de emagrecimento e acompanhamento de tarefas relacionadas à saúde. A solução permitirá que o usuário registre atividades, monitore peso e medidas, acompanhe hábitos diários e organize sua rotina de forma mais eficiente. Ao centralizar informações importantes do processo de emagrecimento, a API busca oferecer uma ferramenta prática, estruturada e útil, sistema completo para acompanhamento de progresso.
